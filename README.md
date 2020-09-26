@@ -3,5 +3,5 @@ Enjoy some laughs with space-themed jokes <br>
 
 Click the link to be launched into space: http://artful-striker-290622.appspot.com/?hl=en_US
 
-Wanna hear a joke from an astronaut? Click the astronaut for a space joke!
-![Screenshot](https://github.com/AmyWeitzman/SpaceJokes/blob/master/screenshot.PNG?raw=true)
+Wanna hear a joke from an astronaut? Click the astronaut for a space joke! <br>
+![Screenshot](https://github.com/AmyWeitzman/SpaceJokes/blob/master/screenshot.png?raw=true)
